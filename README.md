@@ -1,5 +1,9 @@
 # Jogo-da-Velha
 
+<p align="center">
+  <img src="public/jogo-da-velha-gif.gif">
+</p>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -7,6 +11,7 @@
 
 ## General info
 Um jogo divertido e emocionante para todas as idades.
+o Famoso Jogo da Velha
 
 ## Technologies
 * JavaScript;
